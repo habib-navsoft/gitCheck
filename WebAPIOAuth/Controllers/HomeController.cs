@@ -10,7 +10,7 @@ namespace WebAPIOAuth.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page Git Commit test.....";
+            ViewBag.Title = "Home Page Git Commit test..... This is test";
 
             return View();
         }
